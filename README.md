@@ -5,6 +5,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashirkhan1234&label=Profile%20views&color=0e75b6&style=flat" alt="hashirkhan1234" /> </p>
 
+- 🔭 I’m currently working on **Ecommerce-Website**
+
+- 🌱 I’m currently learning **Next.js**
+
+- 👯 I’m looking to collaborate on **All projects**
+
+- 🤝 I’m looking for help with **New Frameworks**
+
+- 💬 Ask me about **Next.js**
+
+- 📫 How to reach me **hk0228980@gmail.com**
+
+- ⚡ Fun fact **I think i am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
