@@ -1,33 +1,36 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hashir Khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=p, initial-scale=1.0">
+    <title>learaning Class</title>
+</head>
+<body>
+    <br><br><br>
+    <center>
+       
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+    <hr>
+    <img 
+    src="https://www.sturmbock.com/media/catalog/product/cache/6/image/17f82f742ffe127f42dca9de82fb58b1/m/e/mercedes-benz-c63-amg-coupe-widebody-kit_1_.jpg"
+    alt="C63 AMG" 
+    width="250" 
+    height="250">
+    
+    <h1> Wheels and Tales Official</h1>
+    <p>"The Mercedes C63 AMG V8 Biturbo is a powerhouse of a car, boasting a handcrafted 4.0-liter V8 engine
+        that produces a thunderous 469 horsepower and 479 lb-ft of torque. With its biturbo technology, 
+        this beast of a machine can go from 0-60mph in just 3.9 seconds, leaving all else in its wake. 
+        The C63's aggressive styling, sport-tuned suspension, and rear-wheel drive dynamics make it a thrill 
+        to drive on the track or the open road. Whether you're a seasoned car enthusiast or just someone 
+        who appreciates the finer things in life, the Mercedes C63 AMG V8 Biturbo is an unforgettable driving 
+        experience that will leave you breathless."</p>
+        <button>
+            Hire Me For VideoGraphy
+        
+        </button>
+    <hr> 
+</center>
+</body>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashirkhan1234&label=Profile%20views&color=0e75b6&style=flat" alt="hashirkhan1234" /> </p>
-
-- 🔭 I’m currently working on **Ecommerce-Website**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **All projects**
-
-- 🤝 I’m looking for help with **New Frameworks**
-
-- 💬 Ask me about **Next.js**
-
-- 📫 How to reach me **hk0228980@gmail.com**
-
-- ⚡ Fun fact **I think i am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashirkhan1234&show_icons=true&locale=en&layout=compact" alt="hashirkhan1234" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashirkhan1234&show_icons=true&locale=en" alt="hashirkhan1234" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashirkhan1234&" alt="hashirkhan1234" /></p>
+</html>
